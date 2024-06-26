@@ -1,2 +1,5 @@
 # DigitalSeek
-Online Repository
+The Financial Services Library supports the digitisation and online availability of its old and discontinued publications, with the goal of digitizing the entire collection. This initiative is seen as a valuable addition to the library's collection, as many items in the catalog are unique and not accessible online elsewhere. Rare, unique, or fragile documents, mostly consisting of brittle
+source material with significant intellectual value but low artifact value and minimal usage, are being digitised. Despite the department's current use of the FSL Digital system as an online repository for these documents, issues have arisen regarding the scattered and non-user-friendly arrangement of materials within the platform. Acknowledging this limitation, efforts have been made to address it through the development of a new system called Digital Seek. This innovative solution aims to improve document organisation and enhance user accessibility, providing a more
+intuitive interface and enhanced search functionality for easier retrieval and navigation of the library's digital publications.
+
